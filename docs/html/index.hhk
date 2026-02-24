@@ -1,0 +1,1278 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html#af08ec37a8c99d747fb60fa15bc28678b"><param name="Name" value="_CRT_SECURE_NO_WARNINGS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#a77616f8e887e5c0cd07386e704837478"><param name="Name" value="accessCode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#a1343aa06d08f696eb2e6f043618da959"><param name="Name" value="accessState"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#af5251b03e3a1b3fb45563f7bf5c4ea16"><param name="Name" value="addGridSize() const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#ad11cfa7d3cf126f42e9b68d58eee440a"><param name="Name" value="addSensor(SensorInterface *sensor)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#aa172377b74af8e57cf6bfe25b61f0b8d"><param name="Name" value="api"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html#aa268a41a13430b18e933ed40207178d0afed2fca77e454294d6b8bda1bf2c9fd6"><param name="Name" value="BACKWARD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#a5a9a2fc37f4749038035e6297609801f"><param name="Name" value="checkAccessCode(int code)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a1f32208b78a16ccde75cf9654493f29a"><param name="Name" value="clearMap()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a212d51b34d6ff028563de294b0a6d7d9"><param name="Name" value="closeAccess(int code)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a7227ac8d97c634f888589f4920cc49aa"><param name="Name" value="closeFile()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#a8e26a1dcfb6366ab8638993c40f76232"><param name="Name" value="connect()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html"><param name="Name" value="ConnectionMenu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html#aea66d9fea05e7dde109c9c4aba5ac5fc"><param name="Name" value="ConnectionMenu(RobotController *ctrl)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html"><param name="Name" value="ConnectionMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html#aea66d9fea05e7dde109c9c4aba5ac5fc"><param name="Name" value="ConnectionMenu(RobotController *ctrl)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html"><param name="Name" value="ConnectionMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html#a1d44beaaa08395119f7f21226fc734b6"><param name="Name" value="controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html"><param name="Name" value="ConnectionMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html#aa384e082e8d2c17b8dbc4e7322637a5d"><param name="Name" value="display()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html"><param name="Name" value="ConnectionMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html#a40f848b24ba8b33eef35c09b968a53ce"><param name="Name" value="handleSelection()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#afe3602347cb98f44d206b3143c3157ef"><param name="Name" value="connectionStatus"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a5009f7474efd55911ecfca647f6563d8"><param name="Name" value="connectRobot() override"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#a1f723cc0aac73498bc255a4394717547"><param name="Name" value="connectRobot()=0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a4a52c9c5070a7a844a1fdf7f2c86e1f6"><param name="Name" value="connectRobot()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a4a52c9c5070a7a844a1fdf7f2c86e1f6"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#ad72e1b5dae837a4c92a0831a37cb22a4"><param name="Name" value="connectRobot()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#ad72e1b5dae837a4c92a0831a37cb22a4"><param name="Name" value="RobotController"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html#a1d44beaaa08395119f7f21226fc734b6"><param name="Name" value="controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html#a1d44beaaa08395119f7f21226fc734b6"><param name="Name" value="ConnectionMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html#a609513111b7d7d1376e6d67e903f4574"><param name="Name" value="controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html#a609513111b7d7d1376e6d67e903f4574"><param name="Name" value="MainMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#ae1ddc0ee23b4d51dd0977050beefebab"><param name="Name" value="controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#ae1ddc0ee23b4d51dd0977050beefebab"><param name="Name" value="Mapper"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html#a4cd9ac731268b8b4156de8c8856d2228"><param name="Name" value="controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html#a4cd9ac731268b8b4156de8c8856d2228"><param name="Name" value="MotionMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#a5111cb9efefd526b85d5e189d314edf0"><param name="Name" value="controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#a5111cb9efefd526b85d5e189d314edf0"><param name="Name" value="SafeNavigation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html#a8b6c100043051ab459a67c912e14b89f"><param name="Name" value="controller"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html#a8b6c100043051ab459a67c912e14b89f"><param name="Name" value="SensorMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_encryption.html#a582d0f8d229568c7fdd759b8592eb2fb"><param name="Name" value="decrypt(int value)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#ac8f4404a15bb95c0a4304a40a9cdf86c"><param name="Name" value="decryptCode(int code)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html#aa268a41a13430b18e933ed40207178d0"><param name="Name" value="DIRECTION"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#ad473feec7c7d309efafad2cc638addbd"><param name="Name" value="disconnect()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a2c27ce3c5f15928138dc43d411a638b6"><param name="Name" value="disconnectRobot() override"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#abc5cf89981f4fa12c948b9dfc64562f4"><param name="Name" value="disconnectRobot()=0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a737481e74554a9c439b1e6d05799a5cd"><param name="Name" value="disconnectRobot()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a737481e74554a9c439b1e6d05799a5cd"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a7f9a224aa79127dde99c400dc1c51bbb"><param name="Name" value="disconnectRobot()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a7f9a224aa79127dde99c400dc1c51bbb"><param name="Name" value="RobotController"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html#a4c7663108e8407200a20cd5a2db197c5"><param name="Name" value="display() override"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html#a4c7663108e8407200a20cd5a2db197c5"><param name="Name" value="MotionMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html#a998ac1d2e310c7651ed6424eedc1137b"><param name="Name" value="display() override"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html#a998ac1d2e310c7651ed6424eedc1137b"><param name="Name" value="SensorMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_menu.html#a94b92b5dc7993422a01de6f37848551e"><param name="Name" value="display()=0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html#aa384e082e8d2c17b8dbc4e7322637a5d"><param name="Name" value="display()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html#aa384e082e8d2c17b8dbc4e7322637a5d"><param name="Name" value="ConnectionMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html#a1d790b1dc0bf2e1f9d399e95311ea167"><param name="Name" value="display()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html#a1d790b1dc0bf2e1f9d399e95311ea167"><param name="Name" value="MainMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_encryption.html#a9ae5d14d793e7c4d64c418e46ae83d15"><param name="Name" value="encrypt(int value)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#a651ff2c85ac93f04e52c26d127a8ef4a"><param name="Name" value="encryptCode(int code)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_encryption.html"><param name="Name" value="Encryption"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_encryption.html"><param name="Name" value="Encryption"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_encryption.html#a582d0f8d229568c7fdd759b8592eb2fb"><param name="Name" value="decrypt(int value)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_encryption.html"><param name="Name" value="Encryption"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_encryption.html#a9ae5d14d793e7c4d64c418e46ae83d15"><param name="Name" value="encrypt(int value)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html"><param name="Name" value="FestoRobotAPI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#af7c6981ab4208a965f40c7fa4104f025"><param name="Name" value="FestoRobotAPI()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html"><param name="Name" value="FestoRobotAPI.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html#af08ec37a8c99d747fb60fa15bc28678b"><param name="Name" value="_CRT_SECURE_NO_WARNINGS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html"><param name="Name" value="FestoRobotAPI.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html#aa268a41a13430b18e933ed40207178d0afed2fca77e454294d6b8bda1bf2c9fd6"><param name="Name" value="BACKWARD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html"><param name="Name" value="FestoRobotAPI.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html#aa268a41a13430b18e933ed40207178d0"><param name="Name" value="DIRECTION"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html"><param name="Name" value="FestoRobotAPI.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html#aa268a41a13430b18e933ed40207178d0aa26736999186daf8146f809e863712a1"><param name="Name" value="FORWARD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html"><param name="Name" value="FestoRobotAPI.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html#aa268a41a13430b18e933ed40207178d0adb45120aafd37a973140edee24708065"><param name="Name" value="LEFT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html"><param name="Name" value="FestoRobotAPI.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html#aa268a41a13430b18e933ed40207178d0aec8379af7490bb9eaaf579cf17876f38"><param name="Name" value="RIGHT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html"><param name="Name" value="FestoRobotAPI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#a8e26a1dcfb6366ab8638993c40f76232"><param name="Name" value="connect()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html"><param name="Name" value="FestoRobotAPI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#ad473feec7c7d309efafad2cc638addbd"><param name="Name" value="disconnect()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html"><param name="Name" value="FestoRobotAPI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#af7c6981ab4208a965f40c7fa4104f025"><param name="Name" value="FestoRobotAPI()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html"><param name="Name" value="FestoRobotAPI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#a621b65c644c0768b3d058c5e76947691"><param name="Name" value="getIRRange(int i)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html"><param name="Name" value="FestoRobotAPI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#ae1a220768f3a92901ab8d4f294ac40fb"><param name="Name" value="getLidarRange(float *ranges)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html"><param name="Name" value="FestoRobotAPI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#adf0f9bb9e110a068c852dc57cba9e2c0"><param name="Name" value="getLidarRangeNumber() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html"><param name="Name" value="FestoRobotAPI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#a406bc41bd3dcd9e95ec6b9b60f0b2f19"><param name="Name" value="getXYTh(double &amp;X, double &amp;Y, double &amp;TH)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html"><param name="Name" value="FestoRobotAPI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#a5893a023d04007dbe4370960b1d35733"><param name="Name" value="move(DIRECTION direction)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html"><param name="Name" value="FestoRobotAPI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#a0b7c9a25c56faa53d5924a55c5439530"><param name="Name" value="rotate(DIRECTION direction)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html"><param name="Name" value="FestoRobotAPI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#ae9d3c916c748e43f126e9967582a20bb"><param name="Name" value="stop()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#ac2284f85ad67b77847d1e8b79335e231"><param name="Name" value="FestoRobotInterface(FestoRobotAPI *api)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a4a52c9c5070a7a844a1fdf7f2c86e1f6"><param name="Name" value="connectRobot()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a737481e74554a9c439b1e6d05799a5cd"><param name="Name" value="disconnectRobot()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#ac2284f85ad67b77847d1e8b79335e231"><param name="Name" value="FestoRobotInterface(FestoRobotAPI *api)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a6681939ac43f720917d5eaf3b77d0acf"><param name="Name" value="getPose() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#ad1e28dc2aee1be29a4639bcd805803ac"><param name="Name" value="moveBackward()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#af4b869f298ca0431a7d1e678514a32f1"><param name="Name" value="moveForward()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a50e8138c4eac154303de6944709fbd00"><param name="Name" value="moveLeft()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#ad288b8e090e883c816c2690f8c16ede4"><param name="Name" value="moveRight()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a9010b6960b2d0f057b9b845c5fe56bac"><param name="Name" value="print() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a85a4c22a6bdfb10c1beac798d3e0d01d"><param name="Name" value="robotAPI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#ae52ecb2654df3fc4890c6d3189d06573"><param name="Name" value="stop()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a0a2caa15bb10fed52c2ed2097dc1e949"><param name="Name" value="turnLeft()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a9582cdcc67bb7aab147b005ee45955ba"><param name="Name" value="turnRight()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a392fc677bff7695da139696125c277ce"><param name="Name" value="FestoRobotInterfaceAdapter(FestoRobotAPI *api)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#aa172377b74af8e57cf6bfe25b61f0b8d"><param name="Name" value="api"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a5009f7474efd55911ecfca647f6563d8"><param name="Name" value="connectRobot() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a2c27ce3c5f15928138dc43d411a638b6"><param name="Name" value="disconnectRobot() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a392fc677bff7695da139696125c277ce"><param name="Name" value="FestoRobotInterfaceAdapter(FestoRobotAPI *api)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a9cec976d92e4142ebffab4bf7d56d1cb"><param name="Name" value="getPose() const override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a68d0de86def93ddde888257a5c93f1b4"><param name="Name" value="moveBackward() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#aa6a501717c79871d92ed4349046ab758"><param name="Name" value="moveForward() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#aca54adcaa950c92beb5c3d5f08e04430"><param name="Name" value="moveLeft() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a82e3c2fdf786fed2520ebe5f50be1f59"><param name="Name" value="moveRight() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#ac029f67d3e8f6ba0d829c155eefc479c"><param name="Name" value="print() const override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a116a3d433406aa187e4b47f00c44f1d6"><param name="Name" value="stop() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a889be745bdde24cb763a344573075b3c"><param name="Name" value="turnLeft() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html"><param name="Name" value="FestoRobotInterfaceAdapter"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#abcba26796a5c5cf6fc392f1f558a5275"><param name="Name" value="turnRight() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html"><param name="Name" value="FestoRobotSensorInterface"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#aaafc50b0601d4977b07bac5d00283dff"><param name="Name" value="FestoRobotSensorInterface(FestoRobotAPI *api)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html"><param name="Name" value="FestoRobotSensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#aaafc50b0601d4977b07bac5d00283dff"><param name="Name" value="FestoRobotSensorInterface(FestoRobotAPI *api)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html"><param name="Name" value="FestoRobotSensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#a4b814ecf5bc29778609363c4709ec7b6"><param name="Name" value="getRange(int index) const =0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html"><param name="Name" value="FestoRobotSensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#a903c90b89e26e656af482eb482c1ccb1"><param name="Name" value="getSensorValue(int index) const =0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html"><param name="Name" value="FestoRobotSensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#a480edf43ac44a6ed1bacfd234cb35a35"><param name="Name" value="operator[](int index) const =0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html"><param name="Name" value="FestoRobotSensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#af2e02e534800876ecec6b8ba0b3526b8"><param name="Name" value="robotAPI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html"><param name="Name" value="FestoRobotSensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#aa5ecaca52eba5a737956f64015f67378"><param name="Name" value="update()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html"><param name="Name" value="FestoRobotSensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#a82bcea80e2861d5d050d2e7a04f91a2c"><param name="Name" value="~FestoRobotSensorInterface()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#aaa051dea561ebd09639f88f8ad890903"><param name="Name" value="file"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a8d082ecc4d1c0ff812300c396fd2b58c"><param name="Name" value="fileName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a5c196ca8ff1bae8eff873242a71bf331"><param name="Name" value="findAngleTo(const Point &amp;pos) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a4cc72b050819834657ac24765bec7fee"><param name="Name" value="findAngleTo(const Pose &amp;pos) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#af554ae33290b6d7601db70820dfa02dc"><param name="Name" value="findDistanceTo(const Point &amp;pos) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a27cd478d9f318c638eb5b2910f3fa18d"><param name="Name" value="findDistanceTo(const Pose &amp;pos) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html#aa268a41a13430b18e933ed40207178d0aa26736999186daf8146f809e863712a1"><param name="Name" value="FORWARD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#a0d618df4ce3534739f194ed39b920d54"><param name="Name" value="getAngle(int index) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#afc8ed77a0c930a9d8efa6b983c329ee1"><param name="Name" value="getGrid(int indexX, int indexY) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#a621b65c644c0768b3d058c5e76947691"><param name="Name" value="getIRRange(int i)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#ae1a220768f3a92901ab8d4f294ac40fb"><param name="Name" value="getLidarRange(float *ranges)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#adf0f9bb9e110a068c852dc57cba9e2c0"><param name="Name" value="getLidarRangeNumber() const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#aa29608884ed48c65f7832048208ee128"><param name="Name" value="getMax(int &amp;index) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#addda17d8fbf2c3e3c5375ab97c4bd986"><param name="Name" value="getMin(int &amp;index) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a81e0fe13541ea264db847d4c542680fd"><param name="Name" value="getNumberX() const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#af1f3a7f63bdb33f0ade0a6090b15cf6f"><param name="Name" value="getNumberY() const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a0164dc653f7fd5aefed0358d72bcbe38"><param name="Name" value="getPoint(double &amp;_x, double &amp;_y) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#a31b9138f8074abca71640dfd762fbce9"><param name="Name" value="getPose() const =0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a9cec976d92e4142ebffab4bf7d56d1cb"><param name="Name" value="getPose() const override"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a6681939ac43f720917d5eaf3b77d0acf"><param name="Name" value="getPose() const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a6681939ac43f720917d5eaf3b77d0acf"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#ad007cb4d7521f75d49b65d68112bf8d0"><param name="Name" value="getPose() const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#ad007cb4d7521f75d49b65d68112bf8d0"><param name="Name" value="RobotController"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a17e6c6e81ce75b32c44cb819bafcccf8"><param name="Name" value="getPose(double &amp;_x, double &amp;_y, double &amp;_th) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#a4b814ecf5bc29778609363c4709ec7b6"><param name="Name" value="getRange(int index) const =0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#afb9ec4668ff0cfdb6a9b4bd71c803ba5"><param name="Name" value="getRange(int index) const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#afb9ec4668ff0cfdb6a9b4bd71c803ba5"><param name="Name" value="IRSensor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#a694e7287bd7deee160bbed768c42a91b"><param name="Name" value="getRange(int index) const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#a694e7287bd7deee160bbed768c42a91b"><param name="Name" value="LidarSensor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#a39ab01ba5fcc97dcc556ec6cf4748b65"><param name="Name" value="getSensorType() const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#a903c90b89e26e656af482eb482c1ccb1"><param name="Name" value="getSensorValue(int index) const =0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#a903c90b89e26e656af482eb482c1ccb1"><param name="Name" value="FestoRobotSensorInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#a7a4c1ddbf268d93b06dffe49c4f7c74d"><param name="Name" value="getSensorValue(int index) const =0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#a7a4c1ddbf268d93b06dffe49c4f7c74d"><param name="Name" value="SensorInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#aea42376bb158d5762fc9eaa09fdf03c2"><param name="Name" value="getSensorValue(int index) const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#aea42376bb158d5762fc9eaa09fdf03c2"><param name="Name" value="IRSensor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#ab4de3e509fa7a65b954934ef951fec02"><param name="Name" value="getSensorValue(int index) const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#ab4de3e509fa7a65b954934ef951fec02"><param name="Name" value="LidarSensor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a5f5b8dd28601c740c41dfdd4a29a9d91"><param name="Name" value="getTh() const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a655794dd595a4821987664bf1d9010e8"><param name="Name" value="getX() const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a655794dd595a4821987664bf1d9010e8"><param name="Name" value="Point"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#adc90bfea798ef45d86d498adf54daa92"><param name="Name" value="getX() const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#adc90bfea798ef45d86d498adf54daa92"><param name="Name" value="Pose"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#a406bc41bd3dcd9e95ec6b9b60f0b2f19"><param name="Name" value="getXYTh(double &amp;X, double &amp;Y, double &amp;TH)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#aa323a12bec85e28ce6575dccec4f8b28"><param name="Name" value="getY() const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#aa323a12bec85e28ce6575dccec4f8b28"><param name="Name" value="Point"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a4aff5e9f59a91a56ef96f21bceea3611"><param name="Name" value="getY() const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a4aff5e9f59a91a56ef96f21bceea3611"><param name="Name" value="Pose"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a84e411cee8ab17e8c8e02a5e8f2fe832"><param name="Name" value="grid"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#aae49498290088e4b55026998c09678a5"><param name="Name" value="gridSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html#a13d8a9987f3abbb8ad2b06b276f1f2be"><param name="Name" value="handleSelection() override"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html#a13d8a9987f3abbb8ad2b06b276f1f2be"><param name="Name" value="MotionMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html#a27a9da172e2a733ed32f5614a7313509"><param name="Name" value="handleSelection() override"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html#a27a9da172e2a733ed32f5614a7313509"><param name="Name" value="SensorMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_menu.html#a07611df48465c9adb06413876b66dc2d"><param name="Name" value="handleSelection()=0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html#a40f848b24ba8b33eef35c09b968a53ce"><param name="Name" value="handleSelection()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_connection_menu.html#a40f848b24ba8b33eef35c09b968a53ce"><param name="Name" value="ConnectionMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html#ad5b7ae34ec2aead7035116a220ee3a2b"><param name="Name" value="handleSelection()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html#ad5b7ae34ec2aead7035116a220ee3a2b"><param name="Name" value="MainMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a77f2077b913c522ea5b1c485661f55b9"><param name="Name" value="insertPoint(const Point &amp;point)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#adcb3d73b78313883f2a60000965fd73b"><param name="Name" value="IR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html"><param name="Name" value="IRSensor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#ac0173e3aa5306e649f40bb63b3ae75d5"><param name="Name" value="IRSensor()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#a921963b41b310214353105a7df1a0619"><param name="Name" value="IRSensor(std::string type)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html"><param name="Name" value="IRSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#afb9ec4668ff0cfdb6a9b4bd71c803ba5"><param name="Name" value="getRange(int index) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html"><param name="Name" value="IRSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#aea42376bb158d5762fc9eaa09fdf03c2"><param name="Name" value="getSensorValue(int index) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html"><param name="Name" value="IRSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#ac0173e3aa5306e649f40bb63b3ae75d5"><param name="Name" value="IRSensor()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html"><param name="Name" value="IRSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#a921963b41b310214353105a7df1a0619"><param name="Name" value="IRSensor(std::string type)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html"><param name="Name" value="IRSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#aff945230faad439773f3632608289e6e"><param name="Name" value="operator[](int index) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html"><param name="Name" value="IRSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#a86f315848c5136b6a74a158bd61c2659"><param name="Name" value="ranges[9]"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html"><param name="Name" value="IRSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#aee0a09e410af013d18e6e0061ca3cd96"><param name="Name" value="update()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html#aa268a41a13430b18e933ed40207178d0adb45120aafd37a973140edee24708065"><param name="Name" value="LEFT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#a3e87347c3ef333094c6fc9a285917420"><param name="Name" value="lidar"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html"><param name="Name" value="LidarSensor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#a19fccfc4e362c893d77a1bc3c02ba6f5"><param name="Name" value="LidarSensor(int rangeNum)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html"><param name="Name" value="LidarSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#a0d618df4ce3534739f194ed39b920d54"><param name="Name" value="getAngle(int index) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html"><param name="Name" value="LidarSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#aa29608884ed48c65f7832048208ee128"><param name="Name" value="getMax(int &amp;index) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html"><param name="Name" value="LidarSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#addda17d8fbf2c3e3c5375ab97c4bd986"><param name="Name" value="getMin(int &amp;index) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html"><param name="Name" value="LidarSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#a694e7287bd7deee160bbed768c42a91b"><param name="Name" value="getRange(int index) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html"><param name="Name" value="LidarSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#ab4de3e509fa7a65b954934ef951fec02"><param name="Name" value="getSensorValue(int index) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html"><param name="Name" value="LidarSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#a19fccfc4e362c893d77a1bc3c02ba6f5"><param name="Name" value="LidarSensor(int rangeNum)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html"><param name="Name" value="LidarSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#ab55bd84734a02d9b6d5d0a73ac5d9a75"><param name="Name" value="operator[](int index) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html"><param name="Name" value="LidarSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#aef7e1198e2e7a88f1549de65e5c90dda"><param name="Name" value="rangeNumber"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html"><param name="Name" value="LidarSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#a6c3e31b733b872431195a7c1f7d2a94f"><param name="Name" value="ranges"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html"><param name="Name" value="LidarSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#ae4c3fae33f0a62ee1ebac2decaa683c2"><param name="Name" value="update()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html"><param name="Name" value="LidarSensor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#a6d31a7a0cfd7438217d259edd875b9a6"><param name="Name" value="~LidarSensor()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="Name" value="main.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html"><param name="Name" value="MainMenu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html#a4681c4d9268c3bd4b0e0f1ef8fc98f13"><param name="Name" value="MainMenu(Controller &amp;ctrl)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html"><param name="Name" value="MainMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html#a609513111b7d7d1376e6d67e903f4574"><param name="Name" value="controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html"><param name="Name" value="MainMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html#a1d790b1dc0bf2e1f9d399e95311ea167"><param name="Name" value="display()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html"><param name="Name" value="MainMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html#ad5b7ae34ec2aead7035116a220ee3a2b"><param name="Name" value="handleSelection()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html"><param name="Name" value="MainMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_main_menu.html#a4681c4d9268c3bd4b0e0f1ef8fc98f13"><param name="Name" value="MainMenu(Controller &amp;ctrl)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#ab8ca61b3c34c6b88568938a4a2817d28"><param name="Name" value="MAP(int numX, int numY, double size)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_m_a_p_8cpp.html#a16d5548e0b074dc70bb6303e2d57004a"><param name="Name" value="MAP.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#af5251b03e3a1b3fb45563f7bf5c4ea16"><param name="Name" value="addGridSize() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a1f32208b78a16ccde75cf9654493f29a"><param name="Name" value="clearMap()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#afc8ed77a0c930a9d8efa6b983c329ee1"><param name="Name" value="getGrid(int indexX, int indexY) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a81e0fe13541ea264db847d4c542680fd"><param name="Name" value="getNumberX() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#af1f3a7f63bdb33f0ade0a6090b15cf6f"><param name="Name" value="getNumberY() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a84e411cee8ab17e8c8e02a5e8f2fe832"><param name="Name" value="grid"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#aae49498290088e4b55026998c09678a5"><param name="Name" value="gridSize"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a77f2077b913c522ea5b1c485661f55b9"><param name="Name" value="insertPoint(const Point &amp;point)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#ab8ca61b3c34c6b88568938a4a2817d28"><param name="Name" value="MAP(int numX, int numY, double size)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#a45a4d01e54ca0017b7cae2b2f37ef104"><param name="Name" value="map"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#af8d882728fb177f0dd7e112de79a3c62"><param name="Name" value="numberX"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a00da2c80c55c598a6c2119bf70ad18a5"><param name="Name" value="numberY"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a16d5548e0b074dc70bb6303e2d57004a"><param name="Name" value="operator&lt;&lt;(std::ostream &amp;os, const MAP &amp;map)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a7d8b2d3bb9965f2389c67df8a2ce2989"><param name="Name" value="printInfo() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#acff95ccc6419c89add7fd97fdcf13144"><param name="Name" value="setGrid(int indexX, int indexY, int value)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#ad27523e14bebb4fe026acfe13e347b4a"><param name="Name" value="setGridSize(double size)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html"><param name="Name" value="MAP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#af9dd530271cae69bd0460ea70cf8c8cb"><param name="Name" value="showMap() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html"><param name="Name" value="Mapper"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#a28ae5b2cd0bc638a4bd3f3d00ae6daf1"><param name="Name" value="Mapper(RobotController *ctrl, SensorInterface *sensor)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html"><param name="Name" value="Mapper"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#ae1ddc0ee23b4d51dd0977050beefebab"><param name="Name" value="controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html"><param name="Name" value="Mapper"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#a3e87347c3ef333094c6fc9a285917420"><param name="Name" value="lidar"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html"><param name="Name" value="Mapper"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#a45a4d01e54ca0017b7cae2b2f37ef104"><param name="Name" value="map"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html"><param name="Name" value="Mapper"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#a28ae5b2cd0bc638a4bd3f3d00ae6daf1"><param name="Name" value="Mapper(RobotController *ctrl, SensorInterface *sensor)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html"><param name="Name" value="Mapper"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#a6696f7397475bae11f8cc20002f62e30"><param name="Name" value="recordMap()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html"><param name="Name" value="Mapper"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#a9ef2cbbc2974919674740f2838faba7e"><param name="Name" value="showMap()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html"><param name="Name" value="Mapper"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#a3e6f1d17b0c1f47a1de49d6c6d0762c8"><param name="Name" value="updateMap()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_menu.html"><param name="Name" value="Menu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_menu.html"><param name="Name" value="Menu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_menu.html#a94b92b5dc7993422a01de6f37848551e"><param name="Name" value="display()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_menu.html"><param name="Name" value="Menu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_menu.html#a07611df48465c9adb06413876b66dc2d"><param name="Name" value="handleSelection()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_menu.html"><param name="Name" value="Menu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_menu.html#a8fc4104b08c9a24d1dab18b82a82b7da"><param name="Name" value="~Menu()=default"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html"><param name="Name" value="MotionMenu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html#a61dc82aaa9c167b132266637de8358cd"><param name="Name" value="MotionMenu(RobotController *ctrl)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html"><param name="Name" value="MotionMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html#a4cd9ac731268b8b4156de8c8856d2228"><param name="Name" value="controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html"><param name="Name" value="MotionMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html#a4c7663108e8407200a20cd5a2db197c5"><param name="Name" value="display() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html"><param name="Name" value="MotionMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html#a13d8a9987f3abbb8ad2b06b276f1f2be"><param name="Name" value="handleSelection() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html"><param name="Name" value="MotionMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_motion_menu.html#a61dc82aaa9c167b132266637de8358cd"><param name="Name" value="MotionMenu(RobotController *ctrl)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#a5893a023d04007dbe4370960b1d35733"><param name="Name" value="move(DIRECTION direction)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a68d0de86def93ddde888257a5c93f1b4"><param name="Name" value="moveBackward() override"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#aeec0b7977a702d4e04bfa6b1dc19edfc"><param name="Name" value="moveBackward()=0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#ad1e28dc2aee1be29a4639bcd805803ac"><param name="Name" value="moveBackward()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#ad1e28dc2aee1be29a4639bcd805803ac"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a0dfd82faba673d03bc3fd5f70e4bf3e6"><param name="Name" value="moveBackward()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a0dfd82faba673d03bc3fd5f70e4bf3e6"><param name="Name" value="RobotController"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#a32999e8bbfea10d9797030c0fefb70e3"><param name="Name" value="moveBackwardSafe()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#aa6a501717c79871d92ed4349046ab758"><param name="Name" value="moveForward() override"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#aca041d5251db50ce5fb31a8939c77678"><param name="Name" value="moveForward()=0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#af4b869f298ca0431a7d1e678514a32f1"><param name="Name" value="moveForward()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#af4b869f298ca0431a7d1e678514a32f1"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a15843ab101417266e72293d9d0fc8af9"><param name="Name" value="moveForward()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a15843ab101417266e72293d9d0fc8af9"><param name="Name" value="RobotController"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#afc10b011059ba730d569c1b3f53e99a3"><param name="Name" value="moveForwardSafe()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#aca54adcaa950c92beb5c3d5f08e04430"><param name="Name" value="moveLeft() override"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#ad9d254b344d3efd4b17d20c9c5453f25"><param name="Name" value="moveLeft()=0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a50e8138c4eac154303de6944709fbd00"><param name="Name" value="moveLeft()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a50e8138c4eac154303de6944709fbd00"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#afbf4236cba71baf23b7887e0f09a16e7"><param name="Name" value="moveLeft()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#afbf4236cba71baf23b7887e0f09a16e7"><param name="Name" value="RobotController"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a82e3c2fdf786fed2520ebe5f50be1f59"><param name="Name" value="moveRight() override"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#a5e7c5decd4275edc95df8383d4a260a2"><param name="Name" value="moveRight()=0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#ad288b8e090e883c816c2690f8c16ede4"><param name="Name" value="moveRight()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#ad288b8e090e883c816c2690f8c16ede4"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a6a2d5096c60ff8732ac582fb71c2ae10"><param name="Name" value="moveRight()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a6a2d5096c60ff8732ac582fb71c2ae10"><param name="Name" value="RobotController"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_safe_navigation_8h.html#a705ad9501f2b6a5292b8b508d511f53f"><param name="Name" value="MOVESTATE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_safe_navigation_8h.html#a705ad9501f2b6a5292b8b508d511f53fa16ebdcb23eb5337fd5bc598fa8d6035d"><param name="Name" value="MOVING"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#af8d882728fb177f0dd7e112de79a3c62"><param name="Name" value="numberX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a00da2c80c55c598a6c2119bf70ad18a5"><param name="Name" value="numberY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#aea4a4f7a26232b51978040c63ce2e15f"><param name="Name" value="openAccess(int code)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#aa39d6330127b5381b4187229487354a6"><param name="Name" value="openFile()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#aefe9c39705b3c41b6cd463520fd70483"><param name="Name" value="operator+(const Pose &amp;other) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a9d588c435a064ac0444287aa2ca6c90b"><param name="Name" value="operator+=(const Pose &amp;other)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a6676c62b57e839afffa9187f4ed9aea6"><param name="Name" value="operator-(const Pose &amp;other) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a66ca863032adf7501f7533f209d56f57"><param name="Name" value="operator-=(const Pose &amp;other)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#af570aad9b344cc892f51ab5a17edbd22"><param name="Name" value="operator&lt;(const Pose &amp;other) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a155efdc4d08372ebefc36f4c1d191b31"><param name="Name" value="operator&lt;&lt;(const std::string &amp;str)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a16d5548e0b074dc70bb6303e2d57004a"><param name="Name" value="operator&lt;&lt;(std::ostream &amp;os, const MAP &amp;map)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a16d5548e0b074dc70bb6303e2d57004a"><param name="Name" value="MAP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_m_a_p_8cpp.html#a16d5548e0b074dc70bb6303e2d57004a"><param name="Name" value="operator&lt;&lt;(std::ostream &amp;os, const MAP &amp;map)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_m_a_p_8cpp.html#a16d5548e0b074dc70bb6303e2d57004a"><param name="Name" value="MAP.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a9c29cd36d1ce448b8e1e56a204fe2b95"><param name="Name" value="operator==(const Point &amp;other) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a6947d10791de85493f03375f1e9a3d32"><param name="Name" value="operator==(const Pose &amp;other) const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a177cfde708ca00bdbb8773613cf66a67"><param name="Name" value="operator&gt;&gt;(std::string &amp;str)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#a480edf43ac44a6ed1bacfd234cb35a35"><param name="Name" value="operator[](int index) const =0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#aff945230faad439773f3632608289e6e"><param name="Name" value="operator[](int index) const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#aff945230faad439773f3632608289e6e"><param name="Name" value="IRSensor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#ab55bd84734a02d9b6d5d0a73ac5d9a75"><param name="Name" value="operator[](int index) const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#ab55bd84734a02d9b6d5d0a73ac5d9a75"><param name="Name" value="LidarSensor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#aa410af60cd3d6c83fc712ec02db87aac"><param name="Name" value="Point(double xVal=0.0, double yVal=0.0)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a5c196ca8ff1bae8eff873242a71bf331"><param name="Name" value="findAngleTo(const Point &amp;pos) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#af554ae33290b6d7601db70820dfa02dc"><param name="Name" value="findDistanceTo(const Point &amp;pos) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a0164dc653f7fd5aefed0358d72bcbe38"><param name="Name" value="getPoint(double &amp;_x, double &amp;_y) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a655794dd595a4821987664bf1d9010e8"><param name="Name" value="getX() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#aa323a12bec85e28ce6575dccec4f8b28"><param name="Name" value="getY() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a9c29cd36d1ce448b8e1e56a204fe2b95"><param name="Name" value="operator==(const Point &amp;other) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#aa410af60cd3d6c83fc712ec02db87aac"><param name="Name" value="Point(double xVal=0.0, double yVal=0.0)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a4ad6ea114ed706f457a9a22d810e3f60"><param name="Name" value="setPoint(double _x, double _y)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a828cfe4479ee67386fa902ff9f29bf44"><param name="Name" value="setX(double xVal)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#aba07c8dbc78cc53887af0523c903d2e3"><param name="Name" value="setY(double yVal)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#ab99c56589bc8ad5fa5071387110a5bc7"><param name="Name" value="x"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html"><param name="Name" value="Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#afa38be143ae800e6ad69ce8ed4df62d8"><param name="Name" value="y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a8a4171c8a6b09e37fb011997da9ea2ad"><param name="Name" value="Pose()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a49fd35f550ecdbda9b0bcf8344283717"><param name="Name" value="Pose(double x, double y, double th)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a4cc72b050819834657ac24765bec7fee"><param name="Name" value="findAngleTo(const Pose &amp;pos) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a27cd478d9f318c638eb5b2910f3fa18d"><param name="Name" value="findDistanceTo(const Pose &amp;pos) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a17e6c6e81ce75b32c44cb819bafcccf8"><param name="Name" value="getPose(double &amp;_x, double &amp;_y, double &amp;_th) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a5f5b8dd28601c740c41dfdd4a29a9d91"><param name="Name" value="getTh() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#adc90bfea798ef45d86d498adf54daa92"><param name="Name" value="getX() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a4aff5e9f59a91a56ef96f21bceea3611"><param name="Name" value="getY() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#aefe9c39705b3c41b6cd463520fd70483"><param name="Name" value="operator+(const Pose &amp;other) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a9d588c435a064ac0444287aa2ca6c90b"><param name="Name" value="operator+=(const Pose &amp;other)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a6676c62b57e839afffa9187f4ed9aea6"><param name="Name" value="operator-(const Pose &amp;other) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a66ca863032adf7501f7533f209d56f57"><param name="Name" value="operator-=(const Pose &amp;other)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#af570aad9b344cc892f51ab5a17edbd22"><param name="Name" value="operator&lt;(const Pose &amp;other) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a6947d10791de85493f03375f1e9a3d32"><param name="Name" value="operator==(const Pose &amp;other) const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a8a4171c8a6b09e37fb011997da9ea2ad"><param name="Name" value="Pose()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a49fd35f550ecdbda9b0bcf8344283717"><param name="Name" value="Pose(double x, double y, double th)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#af6457955dbb4d6ffbd812c9fab70b999"><param name="Name" value="setPose(double _x, double _y, double _th)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#ae2155663de71ff3d7decb6b7807f5c64"><param name="Name" value="setTh(double th)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a9d1efd2c1807e1419dc81ba75e35e929"><param name="Name" value="setX(double x)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a8b9fe0a5cc5d1b48262566121cea1fac"><param name="Name" value="setY(double y)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#af6bc8fa0610aed8d7b1822efbaca2807"><param name="Name" value="th"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a0061c7789df90f593ab95118cbef387f"><param name="Name" value="x"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html"><param name="Name" value="Pose"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a6280216efe0840a7a55f025ad04e3b3d"><param name="Name" value="y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#adfd0690237b85c4c8fdf8fc27da8b00b"><param name="Name" value="position"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#aa747fe574a6ef2286d079fac9628a5f6"><param name="Name" value="print() const =0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#ac029f67d3e8f6ba0d829c155eefc479c"><param name="Name" value="print() const override"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a9010b6960b2d0f057b9b845c5fe56bac"><param name="Name" value="print() const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a9010b6960b2d0f057b9b845c5fe56bac"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a3fd860e58f0f610b68ba706f3b80b4e2"><param name="Name" value="print() const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a3fd860e58f0f610b68ba706f3b80b4e2"><param name="Name" value="RobotController"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#ae345c23989f73d0ed1b8a592e14343e1"><param name="Name" value="print() const"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#ae345c23989f73d0ed1b8a592e14343e1"><param name="Name" value="RobotOperator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#a7d8b2d3bb9965f2389c67df8a2ce2989"><param name="Name" value="printInfo() const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#aef7e1198e2e7a88f1549de65e5c90dda"><param name="Name" value="rangeNumber"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#a6c3e31b733b872431195a7c1f7d2a94f"><param name="Name" value="ranges"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#a86f315848c5136b6a74a158bd61c2659"><param name="Name" value="ranges[9]"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a3aca443385c9dacf86cb38c51352d0c3"><param name="Name" value="readLine()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html"><param name="Name" value="Record"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#aa289d3abc2909913c7ce2fc6e2dd4042"><param name="Name" value="Record(const std::string &amp;name=&quot;&quot;)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html"><param name="Name" value="Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a7227ac8d97c634f888589f4920cc49aa"><param name="Name" value="closeFile()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html"><param name="Name" value="Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#aaa051dea561ebd09639f88f8ad890903"><param name="Name" value="file"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html"><param name="Name" value="Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a8d082ecc4d1c0ff812300c396fd2b58c"><param name="Name" value="fileName"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html"><param name="Name" value="Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#aa39d6330127b5381b4187229487354a6"><param name="Name" value="openFile()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html"><param name="Name" value="Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a155efdc4d08372ebefc36f4c1d191b31"><param name="Name" value="operator&lt;&lt;(const std::string &amp;str)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html"><param name="Name" value="Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a177cfde708ca00bdbb8773613cf66a67"><param name="Name" value="operator&gt;&gt;(std::string &amp;str)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html"><param name="Name" value="Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a3aca443385c9dacf86cb38c51352d0c3"><param name="Name" value="readLine()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html"><param name="Name" value="Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#aa289d3abc2909913c7ce2fc6e2dd4042"><param name="Name" value="Record(const std::string &amp;name=&quot;&quot;)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html"><param name="Name" value="Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a72601c5b7f5a2e5bbfad28ed0bc5d9e1"><param name="Name" value="setFileName(const std::string &amp;name)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html"><param name="Name" value="Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a5f037330c653d9a36cacef1368428d2b"><param name="Name" value="writeLine(const std::string &amp;str)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html"><param name="Name" value="Record"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#ad2ce1a99d866834ab53dedd788cb1ea6"><param name="Name" value="~Record()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#a6696f7397475bae11f8cc20002f62e30"><param name="Name" value="recordMap()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_festo_robot_a_p_i_8h.html#aa268a41a13430b18e933ed40207178d0aec8379af7490bb9eaaf579cf17876f38"><param name="Name" value="RIGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a7e28a99aeab7f40dea2a8e06b95376e9"><param name="Name" value="robot"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a85a4c22a6bdfb10c1beac798d3e0d01d"><param name="Name" value="robotAPI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a85a4c22a6bdfb10c1beac798d3e0d01d"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#af2e02e534800876ecec6b8ba0b3526b8"><param name="Name" value="robotAPI"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#af2e02e534800876ecec6b8ba0b3526b8"><param name="Name" value="FestoRobotSensorInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a6517164760055d0f7c9804a379737ca9"><param name="Name" value="RobotController(RobotInterface *robot, const RobotOperator &amp;operatorInfo)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_robot_controller_8cpp.html#ae4a301e50a4948ce5b3558e4cf487103"><param name="Name" value="RobotController.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#ad11cfa7d3cf126f42e9b68d58eee440a"><param name="Name" value="addSensor(SensorInterface *sensor)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a212d51b34d6ff028563de294b0a6d7d9"><param name="Name" value="closeAccess(int code)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#ad72e1b5dae837a4c92a0831a37cb22a4"><param name="Name" value="connectRobot()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a7f9a224aa79127dde99c400dc1c51bbb"><param name="Name" value="disconnectRobot()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#ad007cb4d7521f75d49b65d68112bf8d0"><param name="Name" value="getPose() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a0dfd82faba673d03bc3fd5f70e4bf3e6"><param name="Name" value="moveBackward()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a15843ab101417266e72293d9d0fc8af9"><param name="Name" value="moveForward()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#afbf4236cba71baf23b7887e0f09a16e7"><param name="Name" value="moveLeft()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a6a2d5096c60ff8732ac582fb71c2ae10"><param name="Name" value="moveRight()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#aea4a4f7a26232b51978040c63ce2e15f"><param name="Name" value="openAccess(int code)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a3fd860e58f0f610b68ba706f3b80b4e2"><param name="Name" value="print() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a7e28a99aeab7f40dea2a8e06b95376e9"><param name="Name" value="robot"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a6517164760055d0f7c9804a379737ca9"><param name="Name" value="RobotController(RobotInterface *robot, const RobotOperator &amp;operatorInfo)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a858b0495fa42b449d1a99271801fe599"><param name="Name" value="robotOperator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a834cb96c1ef965cff981b91fe51917b9"><param name="Name" value="sensorList"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a122b64b7cf020a75798e78d35e2b204b"><param name="Name" value="stop()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a135c1d62462076fb9bb9efb5884c7012"><param name="Name" value="turnLeft()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#aefbdc85694a63e1b7419d32c75e27045"><param name="Name" value="turnRight()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html"><param name="Name" value="RobotController"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#aa721640178a4c11bd15b12b66caed9ef"><param name="Name" value="updateSensors()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_robot_controller_8cpp.html#ae4a301e50a4948ce5b3558e4cf487103"><param name="Name" value="robotino"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#afe3602347cb98f44d206b3143c3157ef"><param name="Name" value="connectionStatus"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#a1f723cc0aac73498bc255a4394717547"><param name="Name" value="connectRobot()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#abc5cf89981f4fa12c948b9dfc64562f4"><param name="Name" value="disconnectRobot()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#a31b9138f8074abca71640dfd762fbce9"><param name="Name" value="getPose() const =0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#aeec0b7977a702d4e04bfa6b1dc19edfc"><param name="Name" value="moveBackward()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#aca041d5251db50ce5fb31a8939c77678"><param name="Name" value="moveForward()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#ad9d254b344d3efd4b17d20c9c5453f25"><param name="Name" value="moveLeft()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#a5e7c5decd4275edc95df8383d4a260a2"><param name="Name" value="moveRight()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#adfd0690237b85c4c8fdf8fc27da8b00b"><param name="Name" value="position"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#aa747fe574a6ef2286d079fac9628a5f6"><param name="Name" value="print() const =0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#a73b6b5c80b53393baa7f487659af652c"><param name="Name" value="stop()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#af3a31375ec541d2a71556a56e2ddcb1b"><param name="Name" value="turnLeft()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#a1bb8ec9e5a0183500d6f90c7a3e07d9d"><param name="Name" value="turnRight()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html"><param name="Name" value="RobotInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#a24f0dd5cc49131a10332f3508d270c4f"><param name="Name" value="~RobotInterface()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html"><param name="Name" value="RobotOperator"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#a00d3850a68cfb669840eff9436bc4a33"><param name="Name" value="RobotOperator(const std::string &amp;surname, unsigned int code, bool den)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html"><param name="Name" value="RobotOperator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#a77616f8e887e5c0cd07386e704837478"><param name="Name" value="accessCode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html"><param name="Name" value="RobotOperator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#a1343aa06d08f696eb2e6f043618da959"><param name="Name" value="accessState"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html"><param name="Name" value="RobotOperator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#a5a9a2fc37f4749038035e6297609801f"><param name="Name" value="checkAccessCode(int code)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html"><param name="Name" value="RobotOperator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#ac8f4404a15bb95c0a4304a40a9cdf86c"><param name="Name" value="decryptCode(int code)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html"><param name="Name" value="RobotOperator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#a651ff2c85ac93f04e52c26d127a8ef4a"><param name="Name" value="encryptCode(int code)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html"><param name="Name" value="RobotOperator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#ae345c23989f73d0ed1b8a592e14343e1"><param name="Name" value="print() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a858b0495fa42b449d1a99271801fe599"><param name="Name" value="robotOperator"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html"><param name="Name" value="RobotOperator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#a00d3850a68cfb669840eff9436bc4a33"><param name="Name" value="RobotOperator(const std::string &amp;surname, unsigned int code, bool den)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html"><param name="Name" value="RobotOperator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#ad6b7be50b45d48579459404ad63992e4"><param name="Name" value="surname"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#a0b7c9a25c56faa53d5924a55c5439530"><param name="Name" value="rotate(DIRECTION direction)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html"><param name="Name" value="SafeNavigation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#a8006416569a54ce2e86aba0c0185929e"><param name="Name" value="SafeNavigation(SensorInterface *ir, RobotController *ctrl)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_safe_navigation_8h.html"><param name="Name" value="SafeNavigation.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_safe_navigation_8h.html#a705ad9501f2b6a5292b8b508d511f53f"><param name="Name" value="MOVESTATE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_safe_navigation_8h.html"><param name="Name" value="SafeNavigation.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_safe_navigation_8h.html#a705ad9501f2b6a5292b8b508d511f53fa16ebdcb23eb5337fd5bc598fa8d6035d"><param name="Name" value="MOVING"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_safe_navigation_8h.html"><param name="Name" value="SafeNavigation.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_safe_navigation_8h.html#a705ad9501f2b6a5292b8b508d511f53fa679ee5320d66c8322e310daeb2ee99b8"><param name="Name" value="STOP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html"><param name="Name" value="SafeNavigation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#a5111cb9efefd526b85d5e189d314edf0"><param name="Name" value="controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html"><param name="Name" value="SafeNavigation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#adcb3d73b78313883f2a60000965fd73b"><param name="Name" value="IR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html"><param name="Name" value="SafeNavigation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#a32999e8bbfea10d9797030c0fefb70e3"><param name="Name" value="moveBackwardSafe()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html"><param name="Name" value="SafeNavigation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#afc10b011059ba730d569c1b3f53e99a3"><param name="Name" value="moveForwardSafe()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html"><param name="Name" value="SafeNavigation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#a8006416569a54ce2e86aba0c0185929e"><param name="Name" value="SafeNavigation(SensorInterface *ir, RobotController *ctrl)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html"><param name="Name" value="SafeNavigation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#a481e62b2354f596882d3df717c9e8734"><param name="Name" value="state"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html"><param name="Name" value="SensorInterface"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#a4c89a3585e430f8fd695c4857bff57be"><param name="Name" value="SensorInterface(const std::string &amp;type)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html"><param name="Name" value="SensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#a39ab01ba5fcc97dcc556ec6cf4748b65"><param name="Name" value="getSensorType() const"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html"><param name="Name" value="SensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#a7a4c1ddbf268d93b06dffe49c4f7c74d"><param name="Name" value="getSensorValue(int index) const =0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html"><param name="Name" value="SensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#a4c89a3585e430f8fd695c4857bff57be"><param name="Name" value="SensorInterface(const std::string &amp;type)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html"><param name="Name" value="SensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#a6c3c12f7147be37af6b6c636e28d294e"><param name="Name" value="sensorType"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html"><param name="Name" value="SensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#abc31f2115d17bcba0f0f65c07e699760"><param name="Name" value="update()=0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html"><param name="Name" value="SensorInterface"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#a106b376b5dd8786596fde24be273bc9c"><param name="Name" value="~SensorInterface()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a834cb96c1ef965cff981b91fe51917b9"><param name="Name" value="sensorList"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html"><param name="Name" value="SensorMenu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html#a6f8d7a09f9519b19243dc0047d3e2f02"><param name="Name" value="SensorMenu(RobotController *ctrl)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html"><param name="Name" value="SensorMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html#a8b6c100043051ab459a67c912e14b89f"><param name="Name" value="controller"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html"><param name="Name" value="SensorMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html#a998ac1d2e310c7651ed6424eedc1137b"><param name="Name" value="display() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html"><param name="Name" value="SensorMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html#a27a9da172e2a733ed32f5614a7313509"><param name="Name" value="handleSelection() override"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html"><param name="Name" value="SensorMenu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_menu.html#a6f8d7a09f9519b19243dc0047d3e2f02"><param name="Name" value="SensorMenu(RobotController *ctrl)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#a6c3c12f7147be37af6b6c636e28d294e"><param name="Name" value="sensorType"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a72601c5b7f5a2e5bbfad28ed0bc5d9e1"><param name="Name" value="setFileName(const std::string &amp;name)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#acff95ccc6419c89add7fd97fdcf13144"><param name="Name" value="setGrid(int indexX, int indexY, int value)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#ad27523e14bebb4fe026acfe13e347b4a"><param name="Name" value="setGridSize(double size)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a4ad6ea114ed706f457a9a22d810e3f60"><param name="Name" value="setPoint(double _x, double _y)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#af6457955dbb4d6ffbd812c9fab70b999"><param name="Name" value="setPose(double _x, double _y, double _th)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#ae2155663de71ff3d7decb6b7807f5c64"><param name="Name" value="setTh(double th)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a9d1efd2c1807e1419dc81ba75e35e929"><param name="Name" value="setX(double x)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#a828cfe4479ee67386fa902ff9f29bf44"><param name="Name" value="setX(double xVal)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a8b9fe0a5cc5d1b48262566121cea1fac"><param name="Name" value="setY(double y)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#aba07c8dbc78cc53887af0523c903d2e3"><param name="Name" value="setY(double yVal)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_m_a_p.html#af9dd530271cae69bd0460ea70cf8c8cb"><param name="Name" value="showMap() const"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#a9ef2cbbc2974919674740f2838faba7e"><param name="Name" value="showMap()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_safe_navigation.html#a481e62b2354f596882d3df717c9e8734"><param name="Name" value="state"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a116a3d433406aa187e4b47f00c44f1d6"><param name="Name" value="stop() override"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#a73b6b5c80b53393baa7f487659af652c"><param name="Name" value="stop()=0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#ae9d3c916c748e43f126e9967582a20bb"><param name="Name" value="stop()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_a_p_i.html#ae9d3c916c748e43f126e9967582a20bb"><param name="Name" value="FestoRobotAPI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#ae52ecb2654df3fc4890c6d3189d06573"><param name="Name" value="stop()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#ae52ecb2654df3fc4890c6d3189d06573"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a122b64b7cf020a75798e78d35e2b204b"><param name="Name" value="stop()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a122b64b7cf020a75798e78d35e2b204b"><param name="Name" value="RobotController"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_safe_navigation_8h.html#a705ad9501f2b6a5292b8b508d511f53fa679ee5320d66c8322e310daeb2ee99b8"><param name="Name" value="STOP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_operator.html#ad6b7be50b45d48579459404ad63992e4"><param name="Name" value="surname"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#af6bc8fa0610aed8d7b1822efbaca2807"><param name="Name" value="th"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#a889be745bdde24cb763a344573075b3c"><param name="Name" value="turnLeft() override"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#af3a31375ec541d2a71556a56e2ddcb1b"><param name="Name" value="turnLeft()=0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a0a2caa15bb10fed52c2ed2097dc1e949"><param name="Name" value="turnLeft()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a0a2caa15bb10fed52c2ed2097dc1e949"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a135c1d62462076fb9bb9efb5884c7012"><param name="Name" value="turnLeft()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#a135c1d62462076fb9bb9efb5884c7012"><param name="Name" value="RobotController"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface_adapter.html#abcba26796a5c5cf6fc392f1f558a5275"><param name="Name" value="turnRight() override"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#a1bb8ec9e5a0183500d6f90c7a3e07d9d"><param name="Name" value="turnRight()=0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a9582cdcc67bb7aab147b005ee45955ba"><param name="Name" value="turnRight()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_interface.html#a9582cdcc67bb7aab147b005ee45955ba"><param name="Name" value="FestoRobotInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#aefbdc85694a63e1b7419d32c75e27045"><param name="Name" value="turnRight()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#aefbdc85694a63e1b7419d32c75e27045"><param name="Name" value="RobotController"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#aa5ecaca52eba5a737956f64015f67378"><param name="Name" value="update()=0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#aa5ecaca52eba5a737956f64015f67378"><param name="Name" value="FestoRobotSensorInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#abc31f2115d17bcba0f0f65c07e699760"><param name="Name" value="update()=0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#abc31f2115d17bcba0f0f65c07e699760"><param name="Name" value="SensorInterface"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#aee0a09e410af013d18e6e0061ca3cd96"><param name="Name" value="update()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_r_sensor.html#aee0a09e410af013d18e6e0061ca3cd96"><param name="Name" value="IRSensor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#ae4c3fae33f0a62ee1ebac2decaa683c2"><param name="Name" value="update()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#ae4c3fae33f0a62ee1ebac2decaa683c2"><param name="Name" value="LidarSensor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_mapper.html#a3e6f1d17b0c1f47a1de49d6c6d0762c8"><param name="Name" value="updateMap()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_controller.html#aa721640178a4c11bd15b12b66caed9ef"><param name="Name" value="updateSensors()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#a5f037330c653d9a36cacef1368428d2b"><param name="Name" value="writeLine(const std::string &amp;str)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#ab99c56589bc8ad5fa5071387110a5bc7"><param name="Name" value="x"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#ab99c56589bc8ad5fa5071387110a5bc7"><param name="Name" value="Point"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a0061c7789df90f593ab95118cbef387f"><param name="Name" value="x"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a0061c7789df90f593ab95118cbef387f"><param name="Name" value="Pose"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#afa38be143ae800e6ad69ce8ed4df62d8"><param name="Name" value="y"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_point.html#afa38be143ae800e6ad69ce8ed4df62d8"><param name="Name" value="Point"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a6280216efe0840a7a55f025ad04e3b3d"><param name="Name" value="y"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_pose.html#a6280216efe0840a7a55f025ad04e3b3d"><param name="Name" value="Pose"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_festo_robot_sensor_interface.html#a82bcea80e2861d5d050d2e7a04f91a2c"><param name="Name" value="~FestoRobotSensorInterface()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_lidar_sensor.html#a6d31a7a0cfd7438217d259edd875b9a6"><param name="Name" value="~LidarSensor()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_menu.html#a8fc4104b08c9a24d1dab18b82a82b7da"><param name="Name" value="~Menu()=default"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_record.html#ad2ce1a99d866834ab53dedd788cb1ea6"><param name="Name" value="~Record()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_robot_interface.html#a24f0dd5cc49131a10332f3508d270c4f"><param name="Name" value="~RobotInterface()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_sensor_interface.html#a106b376b5dd8786596fde24be273bc9c"><param name="Name" value="~SensorInterface()"></OBJECT>
+</UL>
+</BODY>
+</HTML>

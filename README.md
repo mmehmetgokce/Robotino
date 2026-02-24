@@ -1,4 +1,4 @@
-# Robotino: Robot vacuum cleaner operating system
+# Robotino: Robot Vacuum Cleaner Operating System
 
 This project focuses on a modular software architecture for a modern robotic vacuum cleaner system that performs environmental sensing, navigation, mapping, and user interaction tasks.
 
